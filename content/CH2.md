@@ -4,3 +4,5 @@
 - [ ] editor.actino.changeAll Ctrl+F2 カーソルの語句を全て選択する。
 
 //second commit
+
+//third commit
